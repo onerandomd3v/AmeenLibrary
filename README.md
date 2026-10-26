@@ -1,6 +1,6 @@
 # AmeenLibrary
 
-A curated, open-source library of the AI agent skills, plugins, MCP servers, configurations, and workflows I use to build and ship software more effectively.
+A curated, open-source library of the AI agent skills, MCP servers, developer tools, configurations, and workflows I use to build and ship software more effectively.
 
 This is a practical collection of resources I've actually used, not a list of every AI tool available. I'll document what each tool does, why I use it, and how to get started.
 
@@ -9,7 +9,7 @@ This is a practical collection of resources I've actually used, not a list of ev
 | Section | What's inside |
 | --- | --- |
 | [Skills](skills/) | Reusable instructions and capabilities for coding agents |
-| [Plugins](plugins/) | Integrations that improve development workflows |
+| [Tools](tools/) | Developer utilities that complement agent skills, including code review and automation |
 | [MCP Servers](mcp-servers/) | Connections between AI agents and external tools |
 | [Workflows](workflows/) | Practical examples of tools working together |
 | [Configurations](configurations/) | Reusable, sanitized agent settings and templates |
@@ -17,7 +17,7 @@ This is a practical collection of resources I've actually used, not a list of ev
 ## Principles
 
 - **Used in practice:** Prioritize firsthand experience over hype.
-- **Actionable:** Explain setup, purpose, limitations, and real-world usage.
+- **Actionable:** Explain purpose, limitations, and real-world usage; link upstream setup instructions rather than duplicating them.
 - **Respect creators:** Credit third-party maintainers and link original sources. Redistribute only when licensing allows.
 - **Secure by default:** Never publish credentials, secrets, or private project context.
 
