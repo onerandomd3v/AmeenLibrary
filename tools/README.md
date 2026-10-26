@@ -1,6 +1,6 @@
 # Tools
 
-Developer tools I have personally used and verified that complement AI agent skills but are not necessarily packaged as standalone agent skills.
+Developer tools I have personally used and verified that complement agent skills but are not necessarily packaged as standalone agent skills.
 
 | Tool | What it does | Upstream | Status |
 | --- | --- | --- | --- |
