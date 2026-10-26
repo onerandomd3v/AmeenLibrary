@@ -23,6 +23,10 @@ This is a practical collection of resources I've actually used, not a list of ev
 
 The library is just getting started. Entries will be added as they are reviewed.
 
+## Curation
+
+We use a [hybrid curation and verification policy](docs/curation-policy.md). Resources are documented using a [standard entry template](docs/resource-template.md), with Codex and Claude Code as initial priorities.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Suggestions and improvements are welcome.
