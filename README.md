@@ -1,32 +1,21 @@
 # AmeenLibrary
 
-A curated, open-source library of the agent skills, MCP servers, developer tools, configurations, and workflows I use to build and ship software more effectively.
+A curated, open-source collection of agent skills, MCP servers, developer tools, workflows, and configurations that help me build software.
 
-This is a practical collection of resources I've actually used, not a list of every AI tool available. I'll document what each tool does, why I use it, and how to get started.
+It started as my personal toolkit, but contributions and useful discoveries are welcome. Every resource is labeled **Personally Verified**, **Community Verified**, or **Not Yet Verified**, so you know what's been tested.
 
 ## Explore
 
 | Section | What's inside |
 | --- | --- |
-| [Skills](skills/) | Reusable instructions and capabilities for coding agents |
-| [Tools](tools/) | Developer utilities that complement agent skills, including code review and automation |
-| [MCP Servers](mcp-servers/) | Connections between AI agents and external tools |
-| [Workflows](workflows/) | Practical examples of tools working together |
-| [Configurations](configurations/) | Reusable, sanitized agent settings and templates |
+| [Skills](skills/) | Reusable capabilities for coding agents |
+| [Tools](tools/) | Useful developer utilities |
+| [MCP Servers](mcp-servers/) | Connections between agents and external services |
+| [Workflows](workflows/) | Practical development processes |
+| [Configurations](configurations/) | Reusable agent settings and templates |
 
-## Principles
+## How it works
 
-- **Used in practice:** Prioritize firsthand experience over hype.
-- **Actionable:** Explain purpose, limitations, and real-world usage; link upstream setup instructions rather than duplicating them.
-- **Respect creators:** Credit third-party maintainers and link original sources. Redistribute only when licensing allows.
-- **Secure by default:** Never publish credentials, secrets, or private project context.
+We keep entries short: what a resource does, why it's useful, and where to find its official documentation. We credit creators and clearly label what has or hasn't been tested.
 
-The library is just getting started. Entries will be added as they are reviewed.
-
-## Curation
-
-We use a [hybrid curation and verification policy](docs/curation-policy.md). Resources are documented using a [standard entry template](docs/resource-template.md), with Codex and Claude Code as initial priorities.
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md). Suggestions and improvements are welcome.
+See the [curation policy](docs/curation-policy.md) for verification labels or [contribute a resource](CONTRIBUTING.md). Codex and Claude Code are initial priorities, but other agents are welcome.

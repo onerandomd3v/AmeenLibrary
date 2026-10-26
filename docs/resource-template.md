@@ -1,37 +1,32 @@
-# Resource entry template
+# Resource template
 
-Copy this template into a resource's documentation and replace the placeholders.
+Use what fits your entry; skip anything that doesn't apply.
 
 ## Name
 [Resource name]
 
 ## What it does
-[Problem solved and main capabilities]
+[One or two sentences]
 
-## Why use it?
-[Firsthand experience or contributor rationale, including limitations]
+## Why it's useful
+[Your experience, a practical use case, or why it looks promising]
 
-## Source and attribution
-- Original author/maintainer: [Name]
-- Official repository or website: [URL]
-- License: [SPDX identifier or "not confirmed"; do not redistribute unlicensed content]
+## Source
+- Creator: [Name]
+- Official link: [URL]
+- License: [If known]
 
-## Compatibility
-- Codex: [Tested / Reported / Not evaluated]
-- Claude Code: [Tested / Reported / Not evaluated]
-- Other agents: [Name and status]
-
-## Setup
-[Prerequisites, installation, authentication requirements, and permissions. Never include credential values.]
+## Getting started
+[Link to the official setup guide. Add a short note only if helpful.]
 
 ## Example
-[A reproducible task or workflow and expected outcome]
+[A simple example of how someone could use it]
 
 ## Verification
-- Status: [Personally Verified / Community Verified]
-- Verified by: [Contributor handle]
-- Last verified: [YYYY-MM-DD]
-- Evidence: [Reproducible steps or documentation]
-- Known limitations: [Details]
+- Status: [Personally Verified / Community Verified / Not Yet Verified]
+- Notes: [What you actually tested, or say it hasn't been tested]
 
-> Candidate resources without sufficient verification stay in pull requests until reviewed.
+## Compatibility and limitations (if relevant)
+[Which agents you've tested it with, or what is still unknown]
+
+> Don't claim testing or compatibility you haven't verified. Never include secrets.

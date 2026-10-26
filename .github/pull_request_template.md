@@ -1,13 +1,20 @@
-## Summary
+## What does this PR add or change?
 
-Describe what this PR adds or changes.
+[Short description]
 
-## Source and attribution
+## Source (if adding a resource)
 
-Link original projects and note licensing where applicable.
+[Link to the original project or creator]
 
 ## Verification
 
-- [ ] Links and instructions checked
+[Personally Verified / Community Verified / Not Yet Verified / Not applicable]
+
+[What you tested, or what is still untested]
+
+## Quick check
+
+- [ ] Links are correct
+- [ ] Creator credited where applicable
 - [ ] No secrets or private information
-- [ ] Third-party attribution and redistribution rights checked
+- [ ] No unverified claims or unlicensed copied content
