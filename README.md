@@ -9,6 +9,7 @@ This is a practical collection of resources I've actually used, not a list of ev
 | Section | What's inside |
 | --- | --- |
 | [Skills](skills/) | Reusable instructions and capabilities for coding agents |
+| [Tools](tools/) | Developer utilities that complement agent skills, including code review and automation |
 | [Plugins](plugins/) | Integrations that improve development workflows |
 | [MCP Servers](mcp-servers/) | Connections between AI agents and external tools |
 | [Workflows](workflows/) | Practical examples of tools working together |
@@ -17,7 +18,7 @@ This is a practical collection of resources I've actually used, not a list of ev
 ## Principles
 
 - **Used in practice:** Prioritize firsthand experience over hype.
-- **Actionable:** Explain setup, purpose, limitations, and real-world usage.
+- **Actionable:** Explain purpose, limitations, and real-world usage; link upstream setup instructions rather than duplicating them.
 - **Respect creators:** Credit third-party maintainers and link original sources. Redistribute only when licensing allows.
 - **Secure by default:** Never publish credentials, secrets, or private project context.
 
